@@ -6,6 +6,7 @@ RUN \
     && apt-get install -y --no-install-recommends \
        apt-transport-https \
        ca-certificates \
+       git \
        curl \
        gnupg2 \
        groff-base \
